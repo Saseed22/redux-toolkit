@@ -14,7 +14,7 @@ const NavbarPanel = () => {
   return (
     <Navbar bg="light" expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#">Redux Toolkit</Navbar.Brand>
+        <Navbar.Brand href="#">YOUR BRAND.</Navbar.Brand>
 
         <Nav
           className="me-auto my-2 my-lg-0"
